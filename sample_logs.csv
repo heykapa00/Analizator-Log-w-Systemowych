@@ -1,0 +1,5 @@
+TimeCreated,EventID,Message,TargetUserName,IpAddress
+2026-04-08 14:22:15,4625,Logon failure,jan.kowalski,192.168.1.45
+2026-04-08 14:23:10,4625,Logon failure,jan.kowalski,192.168.1.45
+2026-04-08 14:24:05,4625,Logon failure,admin,192.168.1.77
+2026-04-08 14:25:30,4625,Logon failure,jan.kowalski,192.168.1.45
